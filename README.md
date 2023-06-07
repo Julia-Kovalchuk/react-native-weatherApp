@@ -1,1 +1,1 @@
-# react-native-weatherApp
+# react-native-weather-app
